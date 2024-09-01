@@ -7,7 +7,7 @@ int main() {
   // Get user input
 
   printf("Enter your name: ");
-  scanf("%s", name);
+  scanf("%49s", name);
 
   // Display personaliyed greeting
   printf("Hello, %s! Welcome to Day Two of the C programming Course. \n", name);
