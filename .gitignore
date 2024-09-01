@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+001-helloworld/lesson-1
+002-variables/variables
